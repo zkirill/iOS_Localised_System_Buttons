@@ -1,7 +1,8 @@
 /**
- * Apple Strings File
+ * UIBarButtonSystemItem Strings File
  * Language: German
  */
+ 
  
  /* UIBarButtonSystemItem.Add */
  "UIBarButtonSystemItem.Add" = "Hinzuf\U00fcgen";
@@ -23,4 +24,54 @@
  
  /* UIBarButtonSystemItem.Redo */
  "UIBarButtonSystemItem.Redo" = "Wiederholen";
+ 
+ 
+ 
+ /* UIBarButtonSystemItem.Compose */
+ "UIBarButtonSystemItem.Compose" = "Erstellen";
+ 
+ /* UIBarButtonSystemItem.Reply */
+ "UIBarButtonSystemItem.Reply" = "Antworten";
+ 
+ /* UIBarButtonSystemItem.Share */
+ "UIBarButtonSystemItem.Share" = "Senden";
+ 
+ /* UIBarButtonSystemItem.Organize */
+ "UIBarButtonSystemItem.Organize" = "Organisieren";
+ 
+ /* UIBarButtonSystemItem.Delete */
+ "UIBarButtonSystemItem.Delete" = "L\U00f6schen";
+ 
+ 
+ 
+ /* UIBarButtonSystemItem.Bookmarks */
+ "UIBarButtonSystemItem.Bookmarks" = "Lesezeichen";
+ 
+ /* UIBarButtonSystemItem.Search */
+ "UIBarButtonSystemItem.Search" = "Suchen";
+ 
+ /* UIBarButtonSystemItem.Refresh */
+ "UIBarButtonSystemItem.Refresh" = "Aktualisieren";
+ 
+ /* UIBarButtonSystemItem.Stop */
+ "UIBarButtonSystemItem.Stop" = "Stopp";
+ 
+ 
+ 
+ /* UIBarButtonSystemItem.Camera */
+ "UIBarButtonSystemItem.Camera" = "Kamera";
+ 
+ 
+ 
+ /* UIBarButtonSystemItem.Play */
+ "UIBarButtonSystemItem.Play" = "Wiedergabe";
+ 
+ /* UIBarButtonSystemItem.Pause */
+ "UIBarButtonSystemItem.Pause" = "Anhalten";
+ 
+ /* UIBarButtonSystemItem.Rewind */
+ "UIBarButtonSystemItem.Rewind" = "Schneller R\U00fccklauf";
+ 
+ /* UIBarButtonSystemItem.FastForward */
+ "UIBarButtonSystemItem.FastForward" = "Schneller Vorlauf";
  
