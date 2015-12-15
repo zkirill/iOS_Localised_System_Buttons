@@ -5,7 +5,7 @@
  
  
  /* UIBarButtonSystemItem.Add */
- "UIBarButtonSystemItem.Add" = "Hinzuf\U00fcgen";
+ "UIBarButtonSystemItem.Add" = "Hinzufügen";
  
  /* UIBarButtonSystemItem.Edit */
  "UIBarButtonSystemItem.Edit" = "Bearbeiten";
@@ -40,7 +40,7 @@
  "UIBarButtonSystemItem.Organize" = "Organisieren";
  
  /* UIBarButtonSystemItem.Delete */
- "UIBarButtonSystemItem.Delete" = "L\U00f6schen";
+ "UIBarButtonSystemItem.Delete" = "Löschen";
  
  
  
@@ -70,7 +70,7 @@
  "UIBarButtonSystemItem.Pause" = "Anhalten";
  
  /* UIBarButtonSystemItem.Rewind */
- "UIBarButtonSystemItem.Rewind" = "Schneller R\U00fccklauf";
+ "UIBarButtonSystemItem.Rewind" = "Schneller Rücklauf";
  
  /* UIBarButtonSystemItem.FastForward */
  "UIBarButtonSystemItem.FastForward" = "Schneller Vorlauf";
