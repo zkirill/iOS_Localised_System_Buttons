@@ -1,0 +1,26 @@
+/**
+ * Apple Strings File
+ * Language: German
+ */
+ 
+ /* UIBarButtonSystemItem.Add */
+ "UIBarButtonSystemItem.Add" = "Hinzuf\U00fcgen";
+ 
+ /* UIBarButtonSystemItem.Edit */
+ "UIBarButtonSystemItem.Edit" = "Bearbeiten";
+ 
+ /* UIBarButtonSystemItem.Done */
+ "UIBarButtonSystemItem.Done" = "Fertig";
+ 
+ /* UIBarButtonSystemItem.Cancel */
+ "UIBarButtonSystemItem.Cancel" = "Abbrechen";
+ 
+ /* UIBarButtonSystemItem.Save */
+ "UIBarButtonSystemItem.Save" = "Sichern";
+ 
+ /* UIBarButtonSystemItem.Undo */
+ "UIBarButtonSystemItem.Undo" = "Widerrufen";
+ 
+ /* UIBarButtonSystemItem.Redo */
+ "UIBarButtonSystemItem.Redo" = "Wiederholen";
+ 
