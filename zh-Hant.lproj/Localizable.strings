@@ -1,0 +1,11 @@
+/**
+ * Apple Strings File
+ * Language: zh-Hant
+ */
+
+/* UIBarButtonSystemItem.Done */
+"Done" = "完成";
+"Search" = "搜尋";
+"Search results" = "搜尋結果";
+"Clear text" = "Clear text";
+"Cancel" = "取消";
